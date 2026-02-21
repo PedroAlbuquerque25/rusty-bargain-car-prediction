@@ -70,7 +70,8 @@ The **Random Forest Regressor** achieved the best predictive quality with an **R
 ---
 
 ## 👤 Author
-**Pedro Albuquerque** 
+**Pedro Albuquerque**
+*Business-Driven Data Analyst & BI Specialist* 
 
 ---
 
